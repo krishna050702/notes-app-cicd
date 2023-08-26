@@ -9,7 +9,7 @@ This is a simple notes app built with React and Django and deployed on AWS using
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/krishna050702/django-notes-app.git
+git clone https://github.com/krishna050702/notes-app-cicd.git
 ```
 
 2. Build the app
