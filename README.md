@@ -32,6 +32,8 @@ Install Nginx reverse proxy to make this application available
 <hr>
 <h3>Here is short overview and all the commands what I have did in the video.</h3>
 <hr>
+Youtube video:- https://youtu.be/s1l_2rfSO6w
+<hr>
 Linkedin Post:- 
 <hr>
 
