@@ -28,3 +28,12 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+<hr>
+<h3>Here is short overview and all the commands what I have did in the video.</h3>
+<hr>
+Linkedin Post:- 
+<hr>
+
+<h3>Step 1</h3>
+<p>Fork my GitHub repo.</p>
