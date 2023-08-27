@@ -139,10 +139,10 @@ sudo apt-get install jenkins
 </ul>
 
 <h5>Piepline Script</h5>
+
 ```
 pipeline {
     agent any 
-    
     stages{
         stage("Clone Code"){
             steps {
@@ -170,12 +170,12 @@ pipeline {
             steps {
                 echo "Deploying the container"
                 sh "docker-compose down && docker-compose up -d"
-                
             }
         }
     }
 }
 ```
+
 <li> Add one more inbound rule for your docker image at port 8000
 <li> On your terminal give jenkins permissions to the docker
 
