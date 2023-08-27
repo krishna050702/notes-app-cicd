@@ -1,5 +1,11 @@
 # Simple Notes App
 This is a simple notes app built with React and Django and deployed on AWS using Jenkins to demonstarte CI-CD piepline concepts
+<h3>Here is short overview and all the commands what I have did in the video.</h3>
+<hr>
+Youtube video:- https://youtu.be/s1l_2rfSO6w
+<hr>
+Linkedin Post:- https://www.linkedin.com/posts/krishna-mundada_github-krishna050702notes-app-cicd-activity-7101518716839899136--cNQ?utm_source=share&utm_medium=member_desktop
+<hr>
 
 ## Requirements
 1. Python 3.9
@@ -30,13 +36,6 @@ Install Nginx reverse proxy to make this application available
 `sudo apt install nginx`
 
 <hr>
-<h3>Here is short overview and all the commands what I have did in the video.</h3>
-<hr>
-Youtube video:- https://youtu.be/s1l_2rfSO6w
-<hr>
-Linkedin Post:- 
-<hr>
-
 <h4>Step 1</h4>
 <p>Fork my GitHub repo. </p>
 <h4> Step 2</h4>
